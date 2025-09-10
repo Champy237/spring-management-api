@@ -28,6 +28,4 @@ Elle utilise **PostgreSQL** comme base de données et est automatiquement docume
 
 ## Installation & Exécution
 
-1. Cloner le dépôt :  
-   ```bash
-   git clone https://github.com/ton-github/springboot-api.git
+1. Cloner le dépôt :  git clone https://github.com/ton-github/springboot-api.git://github.com/ton-github/springboot-api.git
